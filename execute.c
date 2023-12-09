@@ -6,6 +6,7 @@
 #include <sys/wait.h>
 /**
  *execute_command - Execute a command using fork and execvp
+ *by Aishat and king
  *@args: Array of command arguments
  *Description:
  * This function forks a child process and executes the specified command using

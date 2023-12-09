@@ -2,6 +2,7 @@
 #include <string.h>
 /**
  * parsing_input - Tokenize a command into arguments
+ * by Aishat and king
  * @command: Command string to be tokenized
  * @args: Array to store the tokenized arguments
  *

@@ -4,6 +4,7 @@
 #include <string.h>
 /**
  * read_command - Read a command from the user
+ * by Aishat and king
  * @command: Buffer to store the user input command
  *
  * Description:

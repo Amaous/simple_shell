@@ -3,6 +3,7 @@
 #include <unistd.h>
 /**
  *is_interactive - check for interactive mode
+ *by Aishat and king
  *Return: either true or false
  */
 bool is_interactive(void)

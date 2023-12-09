@@ -3,6 +3,7 @@
 #include <stdlib.h>
 /**
  *exit_shell - exit shell
+ *by Aishat and king
  *Return: return nithing
  */
 

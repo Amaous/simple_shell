@@ -13,4 +13,4 @@ void parsing_input(char *command, char *args[MAX_ARGUMENTS]);
 void execute_command(char *args[MAX_ARGUMENTS]);
 void exit_shell(void);
 
-#endif  /* SHELL_H */
+#endif  /* SHELL_H

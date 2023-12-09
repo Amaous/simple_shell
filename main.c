@@ -4,6 +4,7 @@
 #include <unistd.h>
 /**
  * main - Entry point for a simple shell program
+ *by Aishat ans king
  *
  * Description:
  * This function initializes a simple interactive shell that repeatedly
