@@ -1,7 +1,5 @@
 #include "shell.h"
-#include <stdio.h>
-#include <string.h>
-#include <unistd.h>
+
 /**
  * main - Entry point for a simple shell program
  *by Aishat ans king
@@ -21,7 +19,6 @@ int main(void)
 {
 	char command[MAX_COMMAND_LENGTH];
 	char *args[MAX_ARGUMENTS];
-	char **environ;
 
 	while (1)
 	{
